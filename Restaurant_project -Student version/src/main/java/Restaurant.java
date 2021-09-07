@@ -66,5 +66,8 @@ public class Restaurant {
     public String getName() {
         return name;
     }
-
+    public int orderValue(String item1,String item2)
+    {
+        return 0;
+    }
 }
